@@ -320,22 +320,6 @@ Final Label: Fake
 - Improve robustness against unseen spoofing attacks.
 - Build API or mobile-ready deployment.
 
-## Viva / Presentation Highlights
-
-If presenting this project, focus on the following points:
-
-1. **Problem relevance** — synthetic speech is increasingly realistic and dangerous.
-2. **Dataset selection** — benchmark plus large-scale real/fake data.
-3. **Feature engineering** — MFCC, spectral and prosodic descriptors.
-4. **Deep learning branch** — CNN on mel spectrograms.
-5. **Hybrid logic** — fusion of RF and CNN predictions.
-6. **Deployment** — end-to-end Streamlit application.
-7. **Results** — CNN strongest, hybrid system more practical.
-
-## README Styling Notes
-
-GitHub README files support standard Markdown headings and also allow some inline HTML, while CSS is generally sanitized and not fully supported in README rendering [9][10][11]. Because of that, this README uses clean heading hierarchy and centered HTML only where GitHub commonly supports it, rather than depending on custom fonts or CSS styling that would not render consistently [9][10][11].
-
 ## Author
 
 **Sakshi Dattatray Pawar**
