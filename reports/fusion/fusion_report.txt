@@ -1,0 +1,16 @@
+Fusion Accuracy: 0.9992
+Fusion ROC-AUC: 0.9998
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9988    0.9929    0.9959      2548
+           1     0.9992    0.9999    0.9995     22296
+
+    accuracy                         0.9992     24844
+   macro avg     0.9990    0.9964    0.9977     24844
+weighted avg     0.9992    0.9992    0.9992     24844
+
+Confusion Matrix:
+[[ 2530    18]
+ [    3 22293]]

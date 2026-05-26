@@ -1,0 +1,44 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / models / outputs
+data/
+datasets/
+models/
+outputs/
+results/
+logs/
+runs/
+checkpoints/
+
+# Audio / media
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.mp4
+*.avi
+
+# ML artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.ckpt
+*.onnx
+*.pt
+*.pth
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
